@@ -1,0 +1,54 @@
+#katnip {
+  font-size: 40px;
+  border-bottom: 1px solid black;
+  opacity: 100%;
+  margin: 0;
+}
+#landing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+  padding-top: 20%;
+  background-color: #6e8fa2;
+  opacity: 90%;
+}
+
+#tagLine {
+  padding: 1px;
+  margin: 0;
+  opacity: 100%;
+  padding: 2%;
+  font-size: 25px;
+}
+#colors {
+  display: flex;
+  flex-flow: row;
+  width: 100%;
+  padding-top: 10%;
+}
+#darkGreen {
+  background-color: #628a4f;
+  height: 150px;
+  width: 25%;
+}
+#lightGreen {
+  background-color: #b1ffce;
+  height: 150px;
+  width: 25%;
+}
+#blue {
+  background-color: #062738;
+  height: 150px;
+  width: 25%;
+}
+#darkPurple {
+  background-color: #705b8a;
+  height: 150px;
+  width: 25%;
+}
+#lightPurple {
+  background-color: #9b7ed6;
+  height: 150px;
+  width: 25%;
+}
